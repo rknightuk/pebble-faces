@@ -1,8 +1,6 @@
 ## GoSquared for Pebble
 
-<center>
-    ![](img/PebbleGS.png)
-</center>
+![](img/PebbleGS.png)
 
 [GoSquared for Pebble project page](https://github.com/rmlewisuk/gosquared-for-pebble)
 
